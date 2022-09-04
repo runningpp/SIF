@@ -3,7 +3,7 @@
   <h1 align="center">SIF: Skeleton-aware Implicit Function for Single-view Human Reconstruction</h1>
  <br />
  <a href="">
-    <img align="center" src="./pic/pipeline.png" alt="Logo" width="80%">
+    <img  src="./pic/pipeline.png" alt="Logo" width="100%">
   </a>
 </div>
 
