@@ -59,9 +59,7 @@ Please follow the [Data Preprocess](https://github.com/YuliangXiu/ICON/blob/mast
 
 ## RGB based Experiments
 
-We have show more RGB base experiments, i.e. **RGB based ablation study**.
-
-[RGB base experiments](pic/RGB_results.png)
+We have show more RGB base experiments, i.e. **RGB based ablation study**. [RGB base experiments](pic/RGB_results.png)
  <a href="">
     <img src="./pic/RGB_results.png" alt="Logo" width="60%">
   </a>
