@@ -1,9 +1,9 @@
 <p align="center">
 
   <h1 align="center">SIF: Skeleton-aware Implicit Function for Single-view Human Reconstruction</h1>
- <br /> [pipeline](pic/pipeline.png)
+ <br />
  <a href="">
-    <img src="./pic/pipeline.png" alt="Logo" width="100%">
+    <img src="./pic/pipeline.png" alt="Logo" width="80%">
   </a>
 </div>
 
@@ -63,7 +63,7 @@ We have show more RGB base experiments, i.e. **RGB based ablation study**.
 
 [RGB base experiments](pic/RGB_results.png)
  <a href="">
-    <img src="./pic/RGB_results.png" alt="Logo" width="100%">
+    <img src="./pic/RGB_results.png" alt="Logo" width="60%">
   </a>
 ## Train & Eval
 
