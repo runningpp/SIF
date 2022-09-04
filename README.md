@@ -68,6 +68,8 @@ We have show more RGB base experiments, i.e. **RGB based ablation study**. [RGB 
 You should get the dataset (inclued SMPL normal, SMPL detpth, joints,Normal,RGB), and set your own path.
 <br />
 For the training details, you can refer [config.py](config.py),[train_eval_sif](train_eval_sif.py) and [tainer_sif](trainer/trainer_sif.py)
+<br />
+For the training loss, you can refer [tainer_sif](trainer/trainer_sif.py)
 ```
 python train_eval_sif.py
 ```
