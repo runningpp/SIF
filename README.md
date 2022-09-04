@@ -2,7 +2,9 @@
 
   <h1 align="center">SIF: Skeleton-aware Implicit Function for Single-view Human Reconstruction</h1>
  <br /> [pipeline](pic/pipeline.png)
-
+ <a href="">
+    <img src="./pic/pipeline.png" alt="Logo" width="100%">
+  </a>
 </div>
 
 
@@ -60,7 +62,9 @@ Please follow the [Data Preprocess](https://github.com/YuliangXiu/ICON/blob/mast
 We have show more RGB base experiments, i.e. **RGB based ablation study**.
 
 [RGB base experiments](pic/RGB_results.png)
-
+ <a href="">
+    <img src="./pic/RGB_results.png" alt="Logo" width="100%">
+  </a>
 ## Train & Eval
 
 You should get the dataset (inclued SMPL normal, SMPL detpth, joints,Normal,RGB), and set your own path.
